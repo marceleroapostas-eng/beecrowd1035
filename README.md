@@ -1,8 +1,8 @@
-\# Beecrowd 1035 - Teste de Seleção 1
+# Beecrowd 1035 - Teste de Seleção 1
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1035 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém quatro valores inteiros A, B, C e D.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta "Valores aceitos" caso todas as condições sejam atendidas
 
 
 
-\## Autor
+## Autor
 
 
 
